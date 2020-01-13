@@ -31,7 +31,7 @@ namespace MLAgents
         InferenceDevice m_InferenceDevice;
         [HideInInspector]
         [SerializeField]
-        BehaviorType m_BehaviorType;
+        BehaviorType m_BehaviorType = default;
         [HideInInspector]
         [SerializeField]
         string m_BehaviorName = "My Behavior";
