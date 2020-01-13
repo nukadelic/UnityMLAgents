@@ -1,5 +1,5 @@
 # UnityMLAgents
-ml-agents containing only unity assets to be used as project submodule
+ml-agents containing only unity SDK ( project assets ) to be used as a submodule
 
 Repo : https://github.com/Unity-Technologies/ml-agents
 Commit : a8dbe2d
